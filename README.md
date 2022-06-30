@@ -2,7 +2,7 @@
 [![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
 
 # Paper Title
-
+An Asymptotic Scaling Function for the Particle Entanglement
 Author 1, Author 2, Author 3
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
