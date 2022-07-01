@@ -3,7 +3,8 @@
 
 # An Asymptotic Scaling Function for the Particle Entanglement
 
-Author 1, Author 2, Author 3
+Harini Radhakrishnan, Matthias Thamm, Hatem Barghathi, Bernd Rosenow, and Adrian Del Maestro
+
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
