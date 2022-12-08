@@ -9,7 +9,7 @@
 ####################################################################################
 
 ### FONT
-font.size           : 12.0
+font.size           : 10.0
 font.family         : serif
 font.serif          : CMU Serif Roman
 text.hinting        : auto
@@ -27,29 +27,37 @@ text.usetex         : True  # use latex for all text handling. The following fon
                               # matplotlib mailing list
 
 ### AXES
-axes.labelsize      : 12      # fontsize of the x any y labels
+axes.labelsize      : 10      # fontsize of the x any y labels
 
 ### TICKS
 # see http://matplotlib.org/api/axis_api.html#matplotlib.axis.Tick
-xtick.major.size     : 4      # major tick size in points
-xtick.minor.size     : 4      # minor tick size in points
-xtick.major.pad      : 4      # distance to major tick label in points
+xtick.major.size     : 2      # major tick size in points
+xtick.minor.size     : 2      # minor tick size in points
+xtick.major.pad      : 2      # distance to major tick label in points
 xtick.minor.pad      : 6      # distance to the minor tick label in points
 xtick.labelsize      : 10 	  # fontsize of the tick labels
 
-ytick.major.size     : 4      # major tick size in points
-ytick.minor.size     : 4      # minor tick size in points
-ytick.major.pad      : 4      # distance to major tick label in points
+ytick.major.size     : 2      # major tick size in points
+ytick.minor.size     : 2      # minor tick size in points
+ytick.major.pad      : 2      # distance to major tick label in points
 ytick.minor.pad      : 6      # distance to the minor tick label in points
 ytick.labelsize      : 10 	  # fontsize of the tick labels
 
+### LINES
+lines.linewidth     : 0.75
+lines.dash_joinstyle : round        # miter|round|bevel
+lines.dash_capstyle : round          # butt|round|projecting
+lines.solid_joinstyle : round       # miter|round|bevel
+lines.solid_capstyle : round        # butt|round|projecting
+lines.markersize    : 5             # default marker size
+
 ### Legend
-legend.fontsize      : 12
+legend.fontsize      : 10
 legend.frameon       : False   # whether or not to draw a frame around legend
 
 ### FIGURE
 # See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
-figure.figsize   : 6.4,2    # figure size in inches
+figure.figsize   : 4.63263, 2.86312    # figure size in inches
 
 savefig.transparent :  True     # transparent figures
 savefig.dpi         : 72.27     # figure dots per inch
