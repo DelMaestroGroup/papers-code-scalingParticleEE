@@ -57,7 +57,7 @@ The creation of these materials was supported in part by the National Science Fo
 <img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig09_linearn.svg" width="400px">
 
 #### Figure 10: Scaling of the correction to the n-particle entanglement entropy with N at fixed n/N
-<img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig10_fixedratiosv-1.65double.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig10_fixedratiosv1.75double.svg" width="400px">
 
 #### Figure 11: Fitting of the correction to the n-particle entanglement entropy divided by N as a function of n/N for all data
 <img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig11_fulldataset%2B1.75.svg" width="400px">
