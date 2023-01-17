@@ -12,12 +12,13 @@ Harini Radhakrishnan, Matthias Thamm, Hatem Barghathi, Bernd Rosenow, and Adrian
 Abstract Here
 
 ### Description
-This repository includes links, code, scripts, and data to generate the figures in a paper.
+This repository includes links, code, scripts, and data to to perform data analysis and the figures for the corresponding paper on studying the scaling of the n-particle entanglement in the J-V model describing interacting, spinless fermions in 1D.
 
 ### Requirements
 The data in this project was generated via exact diagonalization and DMRG.  Everything included in the [data](https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/tree/main/data) directory was generated via:
 
-* [Dependency Name](https://dependencelink)
+* [ED code](https://github.com/DelMaestroGroup/tVDiagonalizeParticleEntanglementEntropyEquilibrium)
+* [DMRG code](https://github.com/DelMaestroGroup/tVparticleEEdmrg_julia)
 
 ### Support
 The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.
