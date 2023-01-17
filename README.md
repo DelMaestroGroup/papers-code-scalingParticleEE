@@ -37,7 +37,7 @@ The creation of these materials was supported in part by the National Science Fo
 <img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig03_gvalues.svg" width="400px">
 
 #### Figure 04: Comparison of the exponentiated negative corrections to the 1-particle entanglement entropy of Rényi index 2 for different interaction strengths
-<img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig02_spinlessfermionphasediagram.svg" width="400px">
+<img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig04_alpha2diffV.svg" width="400px">
 
 #### Figure 05: Comparison of the exponentiated negative corrections to the 1-particle entanglement entropy of Rényi index 1 for different interaction strengths
 <img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig05_alpha1diffV.svg" width="400px">
