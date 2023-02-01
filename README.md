@@ -62,5 +62,8 @@ The creation of these materials was supported in part by the National Science Fo
 #### Figure 11: Fitting of the correction to the n-particle entanglement entropy divided by N as a function of n/N for all data
 <img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig11_fulldataset%2B1.75.svg" width="400px">
 
+#### Figure 12: Interpolated surface of Phi_0 as a function of n/N and v/J
+<img src="https://github.com/DelMaestroGroup/papers-code-scalingParticleEE/blob/main/figures/Fig12_interpolatedphi.svg" width="400px">
+
 This figure is released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
