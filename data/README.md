@@ -6,4 +6,4 @@ Structure of the data folder:
 - `coefficients`: Coefficients presented in various tables in the paper
   - `CoeffsFixedn`: Coefficients presented for fixed values of little n and various interactions and alphas
   - `CoeffsFixedratio`: Phi0 and Phi1 coefficients for each fixed ratio at different interactions and alphas
-  - 'CoeffsFullDataSet`: Can be used to reproduce Fig 11 in the paper for alpha=1 and different interactions, contains each ratio, the corresponding N value, the entanglement divided by N, and Phi0/Phi1 evaluated at each n/N
+  - `CoeffsFullDataSet`: Can be used to reproduce Fig 11 in the paper for alpha=1 and different interactions, contains each ratio, the corresponding N value, the entanglement divided by N, and Phi0/Phi1 evaluated at each n/N
