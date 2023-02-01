@@ -14,4 +14,4 @@ List of Figures:
 9. Scaling of constant term in the correction n-particle entanglement entropy with n
 10. Scaling of the correction to the n-particle entanglement entropy with N at fixed n/N
 11. Fitting of the correction to the n-particle entanglement entropy divided by N as a function of n/N for all data
- 
+12. Interpolated surface of Phi_0 as a function of n/N and V/J
