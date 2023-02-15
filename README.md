@@ -1,5 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7644079.svg)](https://doi.org/10.5281/zenodo.7644078)
 
 # A Scaling Function for the Particle Entanglement of Fermions
 
