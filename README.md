@@ -1,7 +1,7 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
 [![DOI](https://zenodo.org/badge/214220909.svg)](https://zenodo.org/badge/latestdoi/214220909)
 
-# An Asymptotic Scaling Function for the Particle Entanglement
+# A Scaling Function for the Particle Entanglement of Fermions
 
 Harini Radhakrishnan, Matthias Thamm, Hatem Barghathi, Bernd Rosenow, and Adrian Del Maestro
 
@@ -9,7 +9,7 @@ Harini Radhakrishnan, Matthias Thamm, Hatem Barghathi, Bernd Rosenow, and Adrian
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
 ### Abstract
-Abstract Here
+    Entanglement entropy under a particle bipartition provides complementary information to mode entanglement as it is sensitive to interactions and particle statistics at leading order and does not depend on any externally imposed length scale.  In this paper, we investigate the particle entanglement entropy in a system of $N$ interacting lattice spinless fermions in one spatial dimension by combining bosonization techniques with exact and approximate numerical methods. We introduce a general scaling form for the fermionic particle entanglement entropy captured by a shape function that enters as a extensive interaction induced correction to a known free fermion result. A general asymptotic expansion in the total number of particles demonstrates that its form is robust for different values of the R{\'e}nyi index and highlights how quantum correlations are encoded in the $n$ particle density matrix of a pure many-body quantum state. 
 
 ### Description
 This repository includes links, code, scripts, and data to to perform data analysis and the figures for the corresponding paper on studying the scaling of the n-particle entanglement in the J-V model describing interacting, spinless fermions in 1D.
@@ -19,6 +19,12 @@ The data in this project was generated via exact diagonalization and DMRG.  Ever
 
 * [ED code](https://github.com/DelMaestroGroup/tVDiagonalizeParticleEntanglementEntropyEquilibrium)
 * [DMRG code](https://github.com/DelMaestroGroup/tVparticleEEdmrg_julia)
+
+To run the code needed to generate the analysis and plots you may need to install 
+* [dgutils](https://github.com/delmaestrogroup/dgutils)
+
+You can install a minimal environment to run this code via: `pip install -r requirements.txt` 
+
 
 ### Support
 The creation of these materials was supported in part by the National Science Foundation under Award No. DMR-1553991.

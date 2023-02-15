@@ -1,0 +1,10 @@
+# required packages
+numpy
+matplotlib
+scipy
+functools
+numpy
+mpmath
+
+## Installed from git
+git+git://github.com/DelMaestroGroup/dgutils.git#egg=dgutils
