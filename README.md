@@ -1,15 +1,14 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2302.09093-B31B1B.svg)](https://arxiv.org/abs/2302.09093)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7644079.svg)](https://doi.org/10.5281/zenodo.7644078)
 
 # A Scaling Function for the Particle Entanglement of Fermions
 
 Harini Radhakrishnan, Matthias Thamm, Hatem Barghathi, Bernd Rosenow, and Adrian Del Maestro
 
-
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
+[arXiv:2302.09093](https://arxiv.org/abs/2302.09093)
 
 ### Abstract
-    Entanglement entropy under a particle bipartition provides complementary information to mode entanglement as it is sensitive to interactions and particle statistics at leading order and does not depend on any externally imposed length scale.  In this paper, we investigate the particle entanglement entropy in a system of $N$ interacting lattice spinless fermions in one spatial dimension by combining bosonization techniques with exact and approximate numerical methods. We introduce a general scaling form for the fermionic particle entanglement entropy captured by a shape function that enters as a extensive interaction induced correction to a known free fermion result. A general asymptotic expansion in the total number of particles demonstrates that its form is robust for different values of the R{\'e}nyi index and highlights how quantum correlations are encoded in the $n$ particle density matrix of a pure many-body quantum state. 
+Entanglement entropy under a particle bipartition provides complementary information to mode entanglement as it is sensitive to interactions and particle statistics at leading order and does not depend on any externally imposed length scale.  In this paper, we investigate the particle entanglement entropy in a system of $N$ interacting lattice spinless fermions in one spatial dimension by combining bosonization techniques with exact and approximate numerical methods. We introduce a general scaling form for the fermionic particle entanglement entropy captured by a shape function that enters as a extensive interaction induced correction to a known free fermion result. A general asymptotic expansion in the total number of particles demonstrates that its form is robust for different values of the R{\'e}nyi index and highlights how quantum correlations are encoded in the $n$ particle density matrix of a pure many-body quantum state. 
 
 ### Description
 This repository includes links, code, scripts, and data to to perform data analysis and the figures for the corresponding paper on studying the scaling of the n-particle entanglement in the J-V model describing interacting, spinless fermions in 1D.
